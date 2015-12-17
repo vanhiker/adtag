@@ -38,4 +38,4 @@ Ad tag 的主要适用场合是移动网页，但是也可以用于App内部集�
 http://ADSERVER/ad?p=<placement_id>&format=<format:(js|html)>
 ```
 
-这段接口代码会提供一个合法的内嵌式的广告素材
+这段接口代码会提供一个有效的内嵌式的广告素材
