@@ -7,7 +7,7 @@ Ad tag 的主要适用场合是移动网页，但是也可以用于App内部集�
 
 请按照以下步骤完成集成：
 
-1. 确认你已经注册的CDN 和广告服务域名都支持http 和hptts.
+1. 确认你已经注册的CDN 和广告服务域名都支持http 和https.
 2. 把ad.js 置入你的CDN。 文件可以从如下地址下载   https://github.com/moinstall/adtag/blob/master/ad_tag.js
 3. 把ad.js文件中的PATH_TO_ADSERVER替换成你的广告服务器的域名
 4. 把下面提供的简单的ad tag代码置入你的测试app页面
